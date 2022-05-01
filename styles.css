@@ -80,17 +80,14 @@ footer img{
     display: flex;
     flex-wrap: nowrap;
     flex-direction: column;
-    justify-content: flex-start;
     
    
 
 }
-.sect1mainclient{
-    text-align: center;
-}
 
 .mainclient img{
     width: 180px;
+    
 }
 @media screen and (min-width:360px){
     .imgtable{
