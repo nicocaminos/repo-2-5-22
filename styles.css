@@ -28,6 +28,12 @@ header h1{
     }
 }
 
+h3{
+    transition: all .3s ease-in-out;
+}
+h3:hover{
+    color: #2a85ec;
+}
 .secmain{
     display: flex;
     flex-direction: row;
